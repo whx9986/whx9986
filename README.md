@@ -2,7 +2,7 @@
    
 ![](https://bad-apple-github-readme.vercel.app/api?show_bg=0&username=whx9986&show_icons=true&theme=tokyonight)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whx9986&layout=compact&theme=tokyonight&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whx9986&layout=compact&theme=tokyonight)
 
 <!--
 **whx9986/whx9986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
